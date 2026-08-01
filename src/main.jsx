@@ -6,9 +6,14 @@ import "./index.css";
 import App from "./App";
 
 import { initGA, trackPageView } from "./utils/analytics";
+import { initClarity } from "./utils/clarity";
 
+// Initialize Analytics
 initGA();
 trackPageView();
+
+// Initialize Microsoft Clarity
+initClarity();
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>

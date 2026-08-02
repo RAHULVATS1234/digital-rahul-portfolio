@@ -34,11 +34,7 @@ const Hero = () => {
         {/* Description */}
 
         <p className="mt-8 max-w-3xl mx-auto text-lg text-gray-400 leading-8">
-          I'm an SEO Executive and Frontend Developer specializing in
-          Technical SEO, WordPress, React, Google Analytics 4,
-          Microsoft Clarity, and modern website development.
-          I help businesses improve online visibility through
-          SEO-driven strategies and responsive websites.
+          I'm an SEO Executive and React Developer specializing in Technical SEO, WordPress, React, Google Analytics 4, Microsoft Clarity, and responsive website development. I help businesses improve their online visibility through SEO-driven strategies and high-performance websites.
         </p>
 
         {/* Buttons */}
